@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    
+    background-color: rgb(169, 109, 109);
+    text-align: center;
+}
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
+h1{
+    color: #fff;
+}
+p{
+    color: white;
+    font-size: 3rem;
+    margin: 0px;
+}
+
+button{
+    background-color: #31d4f5;
+    padding: 10px 16px;
+    border: 0px none ;
+    border-radius: .64rem;
+    margin-top: 1px;
+    margin-bottom: 0px;
+}
+input{
+    padding: 10px;
+    width: 5rem;
+    height: 2rem;
+    border: 0px none;
+    border-radius: .81rem;
+    margin: 1rem;
+}
+.hero-main{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
+    margin: 0;
+}
